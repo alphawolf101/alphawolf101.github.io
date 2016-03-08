@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Application Development Tutorial
+title: Pleb List
 permalink: /tutorial-list/
 ---
 
 
 
-[Bluemix Basics Tutorial](/bluemix-basics)
+[Containers Tutorial](/Containers-Basics)
 
 >IBM [Bluemix](https://ibm.biz/bluemixph) is a platform as a service (PaaS) cloud technology of IBM.  You may develop applications and deploy them in Bluemix.
 
