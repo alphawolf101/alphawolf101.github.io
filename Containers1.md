@@ -1,3 +1,9 @@
+---
+layout: post
+title: Bluemix Devops Services Basics
+permalink: /devops-basics/
+---
+
 Containers Basic Tutorial
 ===================
 
