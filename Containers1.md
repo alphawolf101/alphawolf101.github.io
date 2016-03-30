@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bluemix Devops Services Basics
-permalink: /devops-basics/
+title: Containers
+permalink: /Containers1.md/
 ---
 
 Containers Basic Tutorial
