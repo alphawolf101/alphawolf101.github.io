@@ -6,7 +6,7 @@ permalink: /tutorial-list/
 
 
 
-[Containers Tutorial](Containers-Basics.md)
+[Containers Tutorial](/Containers-Basics.md)
 <br>
 
 
