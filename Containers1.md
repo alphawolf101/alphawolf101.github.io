@@ -48,6 +48,7 @@ Docker is a third party software that is needed to push and pull images to IBM c
 Open a CMD interface and type the following
 
 > cf login -a api.ng.bluemix.net
+
 > cf ic login
 
 We will also need to enter detail regarding our images 
