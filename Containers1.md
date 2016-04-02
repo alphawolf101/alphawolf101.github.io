@@ -79,6 +79,6 @@ Next is Binding the IP address to your container
 
 You can now visit your Container on the web by going to 
 
-> http://<public_IP_address>:9080
+> http://[public_IP_address]:9080
 
 
